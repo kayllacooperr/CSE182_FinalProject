@@ -1,6 +1,0 @@
-discordant        chr14:71981481-->chr14:71848078+        0.297928709922217        3        None        None
-discordant        chr14:73571951+->chr14:73540128-        1.3969895843292492        4        None        None
-discordant        chr14:73572274-->chr14:73540393+        2.3488273318586614        10        None        None
-discordant        chr14:73575727+->chr14:73543931-        0.7409033264134538        3        None        None
-discordant        chr14:76347929-->chr14:76347158+        1.8476405659602213        3        None        None
-discordant        chr14:77304951+->chr12:5204233+        3.2480119706253356        17        None        None
