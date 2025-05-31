@@ -1,3 +1,0 @@
-discordant        chr8:38059917-->chr8:38057228+        0.884533715677398        4        None        None
-discordant        chr8:38190821+->chr12:4643384+        4.43405703120708        32        None        None
-discordant        chr8:141541248+->chr9:134285602+        0.8045697873349426        12        None        None
