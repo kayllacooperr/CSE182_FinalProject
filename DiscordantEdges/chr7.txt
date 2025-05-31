@@ -1,0 +1,4 @@
+discordant        chr7:57899806+->chr7:57896100-        1.7729642506939571        4        None        None
+discordant        chr7:57915411-->chr7:57906102+        9.903286165388872        42        None        None
+discordant        chr7:57918050+->chr7:57895669-        2.1063657742377306        12        None        None
+discordant        chr7:57930780+->chr12:7197403+        4.535321508612639        22        None        None
