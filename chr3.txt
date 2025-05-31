@@ -1,0 +1,16 @@
+discordant        chr3:15476820+->chr3:379157+        0.0655757463045658        3        None        None
+discordant        chr3:15476826-->chr3:379179+        1.1396206247343652        3        None        None
+discordant        chr3:15476826-->chr3:379179+        4.079626137342383        11        None        None
+discordant        chr3:15476830+->chr3:379179+        0.12020664172284062        3        None        None
+discordant        chr3:15803867+->chr12:3796314-        4.980696978305306        14        None        None
+discordant        chr3:16400998+->chr12:3366420+        2.0497338155393408        8        None        None
+discordant        chr3:22039392-->chr12:854749+        1.8107170263303538        2        None        None
+discordant        chr3:22056303-->chr3:22050868+        1.9977064806420748        11        None        None
+discordant        chr3:32503348-->chr3:22076436-        2.3918085527776047        6        None        None
+discordant        chr3:35260181-->chr12:3856729+        5.31701558211021        12        None        None
+discordant        chr3:38647292-->chr3:22030625-        2.595860036680739        12        None        None
+discordant        chr3:39013590-->chr3:35438730+        5.2269466584594015        21        None        None
+discordant        chr3:39134453+->chr12:3950650+        2.0005607617192482        8        None        None
+discordant        chr3:39201472+->chr3:314398-        5.023278503649453        20        None        None
+discordant        chr3:39201495-->chr3:314398-        0.2231822186840065        8        None        None
+discordant        chr3:48072033+->chr12:4082889+        2.13934344740282        13        None        None

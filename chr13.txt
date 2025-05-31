@@ -1,0 +1,6 @@
+discordant        chr13:96876488-->chr9:4097107+        35.29017907556742        44        None        None
+discordant        chr13:96876590-->chr9:12714349+        41.73605567584767        12        None        None
+discordant        chr13:96876669-->chr9:4832542+        30.706725805232654        57        None        None
+discordant        chr13:96876943+->chr9:4096912-        9.384848642490647        29        None        None
+discordant        chr13:96876965+->chr9:19052838+        38.391071227645654        3        None        None
+discordant        chr13:96876996+->chr9:7033360-        32.59098952237562        86        None        None
