@@ -1,4 +1,4 @@
-# CSE182_FinalProject
+# CSE182 FinalProject
 
 This repository contains all the graphics, files, and code used in Team 7's Final Project. Below is a summary.
 
